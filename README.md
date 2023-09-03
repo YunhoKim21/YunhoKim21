@@ -5,9 +5,14 @@
 
 # Experience
 
+- Undergraduate Intern (GIST ViRL, Gwangju, Korea)
+
+  - Jun. 2023 -
+  - Advisor : Prof. Jeany Son
+
 - Machine Learning Engineer (VIVE STUDIOS, Seoul, Korea)
 
-  - Apr.2022 -
+  - Apr.2022 - May .2023
 
 - Undergraduate Intern (GIST CILAB, Gwangju, Korea)
   - Sep.2021 - Jan.2022
@@ -19,12 +24,12 @@
 
   - Kihong Kim\*, **Yunho Kim**\*, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee (\* : Equal Contribution) (Under Review), ArXiv Preprint, 2022
 
-  - [\[Project Page\]](https://hxngiee.github.io/DiffFace/), [\[ArXiv\]](https://arxiv.org/abs/2212.13344) [\[Code\]](https://github.com/hxngiee/DiffFace)
+  - [\[Project Page\]](https://hxngiee.github.io/DiffFace/), [\[ArXiv\]](https://arxiv.org/abs/2212.13344) [\[Code (coming soon)\]](https://github.com/hxngiee/DiffFace)
 
 # Education
 
 - Gwangju Institute of Science and Technology, Gwangju, Korea
-  - B.S. in Computer Science (4.24/4.5)
+  - B.S. in Computer Science (4.26/4.5)
   - Mar. 2021-
 - Daegu Science High School, Daegu, Korea
   - Mar.2018 - Feb.2021
