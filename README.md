@@ -27,7 +27,7 @@
 
 - **DiffFace**: Diffusion-based Face Swapping with Facial Guidance
 
-  - Kihong Kim\*, **Yunho Kim**\*, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee (\* : Equal Contribution) (Under Review), ArXiv Preprint, 2022
+  - Kihong Kim\*, **Yunho Kim**\*, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee (\* : Equal Contribution) Pattern Recognition, 2025
 
   - [\[Project Page\]](https://hxngiee.github.io/DiffFace/), [\[ArXiv\]](https://arxiv.org/abs/2212.13344) [\[Code\]](https://github.com/hxngiee/DiffFace)
 
